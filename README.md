@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @onurkankanli
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on learning coding
-- 📫 How to reach me by email: onurkankanli@gmail.com
+- 👀 I’m an enthusiastic and motivated Computer Science student 
+- 🌱 I’m continuously improving my programming and problem-solving skills through hands-on learning, projects, and real-world experience.
+- 💞️ I’m looking for an entry-level position or internship
+- 📫 How to reach me by email: onurkan@onurkankanli.com
 
 <!---
 onurkankanli/onurkankanli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
